@@ -1,10 +1,28 @@
 <h1>Hi, I'm Kogei! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+ -Implementing a SOC and Honeynet in Azure
 
+ Forages;
+     1. PwC Switzerland Cybersecurity Job Simulation 
+     2. Mastercard Cybersecurity virtual experience program
+     3. AIG Shields Up: Cybersecurity virtual experience program
 
   -  <h2>👨‍💻 Certicifaction:</h2>
-      - Currently Enrolld at Google Cybersecurity Professional Certificate
+      - Google Cybersecurity Professional Certificate
+      - Microsoft Copilot for Security
+      - AWS Security Learning Plan
+      - SOC 2 Academy
+🌱 I’m currently learning ...
+      - Azure Fundamentals (AZ-900)
+      - Network Security
+
+SKILLS AND TECHNOLOGIES
+• Virtual Machines, Virtual Networks, Cloud Computing
+• Active Directory, File Permissions, Windows 10
+• SIEM, Sentinel, Data Analysis
+• Security Advisory, Security Engineering, Vulnerability Triage
+ 
 
 
 <h2> 🤳 Connect with me:</h2>
