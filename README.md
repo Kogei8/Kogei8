@@ -3,25 +3,25 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  -Implementing a SOC and Honeynet in Azure
 
- Forages;
+ <l1>Forages;
      1. PwC Switzerland Cybersecurity Job Simulation 
      2. Mastercard Cybersecurity virtual experience program
-     3. AIG Shields Up: Cybersecurity virtual experience program
+     3. AIG Shields Up: Cybersecurity virtual experience program</l1>
 
-  -  <h2>👨‍💻 Certicifaction:</h2>
+  -  <h2>👨‍💻 Certicifaction:</h2><l2>
       - Google Cybersecurity Professional Certificate
       - Microsoft Copilot for Security
       - AWS Security Learning Plan
-      - SOC 2 Academy
-🌱 I’m currently learning ...
+      - SOC 2 Academy</l2>
+<l3>🌱 I’m currently learning ...
       - Azure Fundamentals (AZ-900)
-      - Network Security
+      - Network Security</l3>
 
-SKILLS AND TECHNOLOGIES
+<l4>SKILLS AND TECHNOLOGIES
 • Virtual Machines, Virtual Networks, Cloud Computing
 • Active Directory, File Permissions, Windows 10
 • SIEM, Sentinel, Data Analysis
-• Security Advisory, Security Engineering, Vulnerability Triage
+• Security Advisory, Security Engineering, Vulnerability Triage</l4>
  
 
 
