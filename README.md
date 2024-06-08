@@ -1,27 +1,39 @@
-<h1>Hi, I'm Kogei! 
+<h1>Hi, I'm Kogei!</h1> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
- -Implementing a SOC and Honeynet in Azure
+<ul>
+    <li>Implementing a SOC and Honeynet in Azure</li>
+</ul>
 
- <l1>Forages;
-     1. PwC Switzerland Cybersecurity Job Simulation 
-     2. Mastercard Cybersecurity virtual experience program
-     3. AIG Shields Up: Cybersecurity virtual experience program</l1>
+<h3>Forages:</h3>
+<ul>
+    <li>PwC Switzerland Cybersecurity Job Simulation</li>
+    <li>Mastercard Cybersecurity virtual experience program</li>
+    <li>AIG Shields Up: Cybersecurity virtual experience program</li>
+</ul>
 
-  -  <h2>👨‍💻 Certicifaction:</h2><l2>
-      - Google Cybersecurity Professional Certificate
-      - Microsoft Copilot for Security
-      - AWS Security Learning Plan
-      - SOC 2 Academy</l2>
-<l3>🌱 I’m currently learning ...
-      - Azure Fundamentals (AZ-900)
-      - Network Security</l3>
+<h2>👨‍💻 Certification:</h2>
+<ul>
+    <li>Google Cybersecurity Professional Certificate</li>
+    <li>Microsoft Copilot for Security</li>
+    <li>AWS Security Learning Plan</li>
+    <li>SOC 2 Academy</li>
+</ul>
 
-<l4>SKILLS AND TECHNOLOGIES
-• Virtual Machines, Virtual Networks, Cloud Computing
-• Active Directory, File Permissions, Windows 10
-• SIEM, Sentinel, Data Analysis
-• Security Advisory, Security Engineering, Vulnerability Triage</l4>
+<h2>🌱 I’m currently learning ...</h2>
+<ul>
+    <li>Azure Fundamentals (AZ-900)</li>
+    <li>Network Security</li>
+</ul>
+
+<h2>SKILLS AND TECHNOLOGIES</h2>
+<ul>
+    <li>Virtual Machines, Virtual Networks, Cloud Computing</li>
+    <li>Active Directory, File Permissions, Windows 10</li>
+    <li>SIEM, Sentinel, Data Analysis</li>
+    <li>Security Advisory, Security Engineering, Vulnerability Triage</li>
+</ul>
+
  
 
 
