@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kogei!</h1> 
+<h1>Hi, I'm Amos Kogei!</h1> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <ul>
